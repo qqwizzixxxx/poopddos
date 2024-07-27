@@ -16,7 +16,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pastah&weight=900&size=48&pause=1000&color=ff0000&center=true&vCenter=true&random=true&width=900&lines=How+To%20+Install?" />
 </h1>
 
-1. Download A Release Of poopddos
+1. Download A Archive "poopddos.zip" from Release Of poopddos
 
 2. Drag Folder From A Archive To A Workspace
 
