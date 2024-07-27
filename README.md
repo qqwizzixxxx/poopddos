@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/release/qqwizzixxxx/poopddos?label=Version&color=ff0000">
   <img src="https://img.shields.io/github/stars/qqwizzixxxx/poopddos?style=flat&label=Stars&color=ff0000">
-  <img src="https://img.shields.io/github/repo-size/qqwizzixxxx/poopddos/tree/main/poopddos?label=Size&color=ff0000">
   <img src="https://img.shields.io/github/languages/top/qqwizzixxxx/poopddos?color=ff0000">
 
 <h1 align="center">
